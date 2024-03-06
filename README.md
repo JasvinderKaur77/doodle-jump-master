@@ -1,4 +1,8 @@
-# [Doodle Jump]
+# Doodle Jump
+
+* Demo : https://jasvinderkaur77.github.io/doodle-jump-master/
+
+![Screenshot (1439)](https://github.com/JasvinderKaur77/doodle-jump-master/assets/129674937/47b7dda5-c7ec-4ef9-befa-5ebe41304b52)
 
 In this Mini Project, I have created the Doodle jump game with html, css, and javascript. Specifically, I learned how to code the game using html5 canvas.
 
